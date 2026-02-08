@@ -36,6 +36,7 @@ If you’ve built an app, website, or tech project and want real users,
 MarketAdvisor is for you.
 
 ⚙️ How It Works
+
 1️⃣ Add Your Product
 
 Share your project link or briefly describe what you’ve built and who it’s for.

@@ -114,7 +114,7 @@ Example:
 
       {/* SIDEBAR */}
       <aside className="hidden md:flex w-64 bg-white border-r p-6 flex-col">
-        <h2 className="text-xl font-bold text-blue-600 mb-6">
+        <h2 className="text-xl font-bold text-blue-800 mb-6">
           MarketAdvisor
         </h2>
 
